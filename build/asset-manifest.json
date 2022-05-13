@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/thulotechnology/static/css/main.aac83780.css",
-    "main.js": "/thulotechnology/static/js/main.b21c7973.js",
+    "main.js": "/thulotechnology/static/js/main.a375e2c9.js",
     "static/js/787.7c40554b.chunk.js": "/thulotechnology/static/js/787.7c40554b.chunk.js",
     "static/media/sql.png": "/thulotechnology/static/media/sql.85fb38d6773862e917f4.png",
     "static/media/computerbasic.png": "/thulotechnology/static/media/computerbasic.43e442659471703d8760.png",
@@ -21,11 +21,11 @@
     "static/media/roboto-greek-ext-400-normal.woff2": "/thulotechnology/static/media/roboto-greek-ext-400-normal.bb723e8458c9c653e505.woff2",
     "index.html": "/thulotechnology/index.html",
     "main.aac83780.css.map": "/thulotechnology/static/css/main.aac83780.css.map",
-    "main.b21c7973.js.map": "/thulotechnology/static/js/main.b21c7973.js.map",
+    "main.a375e2c9.js.map": "/thulotechnology/static/js/main.a375e2c9.js.map",
     "787.7c40554b.chunk.js.map": "/thulotechnology/static/js/787.7c40554b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aac83780.css",
-    "static/js/main.b21c7973.js"
+    "static/js/main.a375e2c9.js"
   ]
 }
